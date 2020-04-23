@@ -1,1 +1,1 @@
-# Just some small summer learning project
+# Just a small summer learning project for JavaScript
